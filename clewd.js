@@ -184,7 +184,7 @@ const AddxmlPlot = (content) => {
         padtxt: true,
         xmlPlot: true,
         localtunnel: false,       
-        VPNfree: false
+        VPNfree: true
     },
     PersonalityFormat: '{{CHAR}}\'s personality: {{PERSONALITY}}',
     ScenarioFormat: 'Dialogue scenario: {{SCENARIO}}'
